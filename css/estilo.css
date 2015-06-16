@@ -1,33 +1,24 @@
 .fondoBody{
-background-image:url(../images/todo.png);
+	background-image:url(../images/todo.png);
 }
-
-.Tema{
-background-image:url(../images/betaxx.png);
-}
-
-
-
-
-
 .SegundoF{
-background-image:url(../images/todo.png);
-
+	background-image:url(../images/todo.png);
 }
 
-
-.Letras{color: #66FF33;
- font: 150% sans-serif; 
- 
+.Letras{
+	color: #66FF33;
+ 	font: 150% sans-serif; 
 }
 
-
-
-.fin{color: #66FF33;
-
+.fin{
+	color: #66FF33;
 }
 
-
+.fin label{
+	position: relative;
+	left: 5%;
+	transform: translateX(-50%);
+}
 
 /* unvisited link */
 a:link {
@@ -37,7 +28,6 @@ a:link {
 a:visited {
     color: #66FF33;
 }
-
 /* mouse over link */
 a:hover {
     color: #66FF33;
@@ -47,23 +37,13 @@ a:hover {
 a:active {
     color: #66FF33;
 }
-
-
-
-
 a:link {
     text-decoration: none;
 }
-
-
-
-
 .menu li {
 	float: left; 
 	margin: -5px 3px; 
-
-position: relative;
-left: 50%;
-transform: translateX(-50%);
-	
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
 }
