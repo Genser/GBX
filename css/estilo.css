@@ -5,6 +5,8 @@
 	background-image:url(../images/todo.png);
 }
 
+
+
 .Letras{
 	color: #66FF33;
  	font: 150% sans-serif; 
@@ -19,6 +21,16 @@
 	left: 5%;
 	transform: translateX(-50%);
 }
+
+
+
+.Letras1{
+	color: #66FF33;
+ 	font: 120% Cooper; 
+}
+
+
+
 
 /* unvisited link */
 a:link {
