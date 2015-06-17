@@ -61,7 +61,9 @@ a:link {
 	left: 50%;
 	transform: translateX(-50%);*/
 }
-
+.menu{
+	margin-left:42%;
+}
 .tabla {
 	whidth: 1050;
 }
