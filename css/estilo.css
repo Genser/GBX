@@ -17,9 +17,10 @@
 }
 
 .fin label{
-	position: relative;
-	left: 5%;
-	transform: translateX(-50%);
+	/*position: relative;
+	left: 46%;	
+	transform: translateX(-50%);*/
+	
 }
 
 
@@ -53,9 +54,14 @@ a:link {
     text-decoration: none;
 }
 .menu li {
+	list-style: none;
 	float: left; 
 	margin: -5px 3px; 
-	position: relative;
+	/*position: relative;
 	left: 50%;
-	transform: translateX(-50%);
+	transform: translateX(-50%);*/
+}
+
+.tabla {
+	whidth: 1050;
 }
