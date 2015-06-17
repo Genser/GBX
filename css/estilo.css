@@ -1,5 +1,9 @@
 .fondoBody{
 	background-image:url(../images/todo.png);
+	width:90%;
+	height:40%;
+	color: #66FF33;
+ 	
 }
 .SegundoF{
 	background-image:url(../images/todo.png);
@@ -23,11 +27,8 @@
 	
 }
 
-
-
 .Letras1{
-	color: #66FF33;
- 	font: 120% Cooper; 
+	/*font: 120% Cooper;*/ 
 }
 
 
