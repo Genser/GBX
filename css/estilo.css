@@ -21,6 +21,7 @@
 }
 
 .fin label{
+	 
 	/*position: relative;
 	left: 46%;	
 	transform: translateX(-50%);*/
@@ -29,6 +30,7 @@
 
 .Letras1{
 	/*font: 120% Cooper;*/ 
+
 }
 
 
@@ -68,3 +70,79 @@ a:link {
 .tabla {
 	whidth: 1050;
 }
+
+
+img,video{ max-width:400%;}
+
+
+
+.men{
+	 text-align:center; 
+}
+
+
+
+
+
+footer{
+margin: center;
+
+   
+    height:28px;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:10px;
+    }
+footer ul{
+
+    text-align: center;
+    height:auto;
+    padding:8px 0px;
+    margin:0px;
+    }
+footer li{
+    display:inline;
+    padding:0px;
+    margin:0px;
+    }
+
+footer a{
+    text-decoration:none;
+    color:#FFFFFF;
+    padding:8px 8px 8px 8px 8px   ;
+    }
+    
+footer a:hover{
+    color:#000000;
+    background-color:#FFFFFF;
+        }
+        
+        @media all and(min-width:800px){
+        body{
+           
+            width:800px;
+            margin:auto;
+            }
+            }
+
+
+        @media all and(min-width:480px){
+        footer{
+            height:100%;
+              }
+           footer li{
+
+display:block; 
+padding:10px;
+margin:0px;           
+           }
+           }
+
+
+
+
+
+
+
+
+
